@@ -1,0 +1,47 @@
+html{
+  min-height: 100%;
+}
+body{
+    align-items: center;
+    background: linear-gradient(320deg, palegoldenrod, darkseagreen, cornflowerblue);
+    display: flex;
+    font-family: 'Dosis', sans-serif;
+    font-display: swap;
+    justify-content: center;
+    height: inherit;
+}
+#userForm{
+    border-radius: 20px;
+    box-shadow: 0 4px 30px rgba(35, 35, 35, 0.1);
+    color: #232323;
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    background: rgba(255, 255, 255, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.34);
+    flex-basis: 400px;
+    padding: 20px 55px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 60px;
+}
+input, select, button{
+    padding: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.34);
+    border-radius: 8px;
+    margin-bottom: 40px;
+    margin-top: 5px;
+    font-size: 20px;
+    color: #232323;
+}
+button{
+    background-color: cadetblue;
+    color: white;
+}
+
+input:focus, select:focus{
+    outline: none;
+}
