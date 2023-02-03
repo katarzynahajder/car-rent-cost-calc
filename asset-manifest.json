@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/car-rent-cost-calc/static/css/main.a799e11e.css",
+    "main.js": "/car-rent-cost-calc/static/js/main.0b9af80a.js",
+    "static/js/787.378f446d.chunk.js": "/car-rent-cost-calc/static/js/787.378f446d.chunk.js",
+    "index.html": "/car-rent-cost-calc/index.html",
+    "main.a799e11e.css.map": "/car-rent-cost-calc/static/css/main.a799e11e.css.map",
+    "main.0b9af80a.js.map": "/car-rent-cost-calc/static/js/main.0b9af80a.js.map",
+    "787.378f446d.chunk.js.map": "/car-rent-cost-calc/static/js/787.378f446d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a799e11e.css",
+    "static/js/main.0b9af80a.js"
+  ]
+}
